@@ -40,4 +40,9 @@ public class ContaCorrente extends Conta {
 		System.out.println("Limite de Crédito: " + this.limite);
 	}
 	
+	public void teste() {
+		int idade1 = 22;
+		double idade2 = idade1;
+	}
+	
 }
